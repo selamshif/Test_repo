@@ -62,4 +62,4 @@ WHERE		ShiftID <> 0
 DROP TABLE	#NEW_proc1
 END
 GO
-
+EXEC   [dbo].[Proc_test]
